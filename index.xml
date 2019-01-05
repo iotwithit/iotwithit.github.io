@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://iotwith.it/</link>
+    <link>https://iotwith.it/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Dec 2018 17:35:46 +0100</lastBuildDate>
     
-	<atom:link href="http://iotwith.it/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iotwith.it/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://iotwith.it/instagram_references/0000/</link>
+      <link>https://iotwith.it/instagram_references/0000/</link>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
-      <guid>http://iotwith.it/instagram_references/0000/</guid>
+      <guid>https://iotwith.it/instagram_references/0000/</guid>
       <description>Insert Post ID (e.g., 0000) [0,1,2,3,4,5]  0000 Urban Dictionary: Withit</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://iotwith.it/instagram_references/0001/</link>
+      <link>https://iotwith.it/instagram_references/0001/</link>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
-      <guid>http://iotwith.it/instagram_references/0001/</guid>
+      <guid>https://iotwith.it/instagram_references/0001/</guid>
       <description>Insert Post ID (e.g., 0000) [0,1,2,3,4,5]  0001 lwIP
 Why do we use the Linux kernels TCP stack
 Wi-Fi and the OSI model</description>
@@ -33,19 +33,19 @@ Wi-Fi and the OSI model</description>
     
     <item>
       <title></title>
-      <link>http://iotwith.it/instagram_references/0002/</link>
+      <link>https://iotwith.it/instagram_references/0002/</link>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
-      <guid>http://iotwith.it/instagram_references/0002/</guid>
+      <guid>https://iotwith.it/instagram_references/0002/</guid>
       <description>Insert Post ID (e.g., 0000) [0,1,2,3,4,5]  0002 Developing applications [&amp;hellip;] with LwIP TCP/IP stack</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://iotwith.it/instagram_references/0003/</link>
+      <link>https://iotwith.it/instagram_references/0003/</link>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
-      <guid>http://iotwith.it/instagram_references/0003/</guid>
+      <guid>https://iotwith.it/instagram_references/0003/</guid>
       <description>Insert Post ID (e.g., 0000) [0,1,2,3,4,5]  0003 Espressif IoT Development Framework
 Espressif lwIP fork
 All About ESP32 - lwIP
@@ -54,10 +54,10 @@ Meld visual diff</description>
     
     <item>
       <title></title>
-      <link>http://iotwith.it/instagram_references/0004/</link>
+      <link>https://iotwith.it/instagram_references/0004/</link>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
-      <guid>http://iotwith.it/instagram_references/0004/</guid>
+      <guid>https://iotwith.it/instagram_references/0004/</guid>
       <description>Insert Post ID (e.g., 0000) [0,1,2,3,4,5]  0004 GNU Netcat
 lwipotps.h wiki
 TCP Client example</description>
@@ -65,10 +65,10 @@ TCP Client example</description>
     
     <item>
       <title></title>
-      <link>http://iotwith.it/instagram_references/0005/</link>
+      <link>https://iotwith.it/instagram_references/0005/</link>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
-      <guid>http://iotwith.it/instagram_references/0005/</guid>
+      <guid>https://iotwith.it/instagram_references/0005/</guid>
       <description>Insert Post ID (e.g., 0000) [0,1,2,3,4,5]  0005 Particle.io - Selecting a microcontroller (MCU) for your IoT Product
 Introduction to Microcontrollers and Microprocessors
 Atmel/Microchip - MPU or MCU?</description>
@@ -76,10 +76,10 @@ Atmel/Microchip - MPU or MCU?</description>
     
     <item>
       <title></title>
-      <link>http://iotwith.it/instagram_references/base/</link>
+      <link>https://iotwith.it/instagram_references/base/</link>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
-      <guid>http://iotwith.it/instagram_references/base/</guid>
+      <guid>https://iotwith.it/instagram_references/base/</guid>
       <description>Insert Post ID (e.g., 0000) [0,1,2,3,4,5]  </description>
     </item>
     

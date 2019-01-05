@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://iotwith.it/instagram_references/0000/</loc>
+    <loc>https://iotwith.it/instagram_references/0000/</loc>
     <lastmod>2018-12-31T17:35:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://iotwith.it/instagram_references/0001/</loc>
+    <loc>https://iotwith.it/instagram_references/0001/</loc>
     <lastmod>2018-12-31T17:35:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://iotwith.it/instagram_references/0002/</loc>
+    <loc>https://iotwith.it/instagram_references/0002/</loc>
     <lastmod>2018-12-31T17:35:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://iotwith.it/instagram_references/0003/</loc>
+    <loc>https://iotwith.it/instagram_references/0003/</loc>
     <lastmod>2018-12-31T17:35:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://iotwith.it/instagram_references/0004/</loc>
+    <loc>https://iotwith.it/instagram_references/0004/</loc>
     <lastmod>2018-12-31T17:35:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://iotwith.it/instagram_references/0005/</loc>
+    <loc>https://iotwith.it/instagram_references/0005/</loc>
     <lastmod>2018-12-31T17:35:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://iotwith.it/instagram_references/base/</loc>
+    <loc>https://iotwith.it/instagram_references/base/</loc>
     <lastmod>2018-12-31T17:35:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://iotwith.it/</loc>
-    <lastmod>2018-12-31T17:35:46+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://iotwith.it/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://iotwith.it/instagram_references/</loc>
+    <loc>https://iotwith.it/</loc>
     <lastmod>2018-12-31T17:35:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://iotwith.it/tags/</loc>
+    <loc>https://iotwith.it/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iotwith.it/instagram_references/</loc>
+    <lastmod>2018-12-31T17:35:46+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iotwith.it/tags/</loc>
     <priority>0</priority>
   </url>
   
