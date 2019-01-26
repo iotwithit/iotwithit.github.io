@@ -17,17 +17,16 @@
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/blog/</guid>
-      <description>IoT withit Blog simply links to Instagram posts, but with a logic!
-General 0 - IoT withit
-1 - How to navigate IoT withit references
-2 - IoT withit Blog!
-lwIP series 0 - Embedded TCP/IP stacks
-1 - lwIP architecture
-2 - lwIP on ESP32
-3 - TCP client example
-4 - Analyzing ESP32 WiFi using Wireshark
-5 - WiFi packet Forward and Capture - intro
-6 - lwIP packet Forward - source explained</description>
+      <description>IoT withit Blog simply links to Instagram posts, but with a logic! (most recent series first)
+IoT news analysis 0 - Vulnerabilities in IoT protocols?
+mbedTLS series 0 - How do you Secure IoT networks?
+1 - mbedTLS basics with Wireshark
+RTOS series 0 - AWS FreeRTOS
+1 - AliOS Things
+2 - Android Things
+3 - Windows 10 IoT Core
+4 - The IoT Cloud War
+iRobot on AWS series 0 - Do Roombas securely connect to AWS IoT?</description>
     </item>
     
     <item>
