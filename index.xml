@@ -18,14 +18,14 @@
       
       <guid>https://iotwith.it/blog/</guid>
       <description>IoT withit Blog simply links to Instagram posts, but with a logic! (most recent series first)
-IIoT giants series 0 - Bosch, IoT and Open Source
 mbedTLS series 0 - How do you Secure IoT networks?
 1 - mbedTLS basics with Wireshark
 2 - Decrypting TLS
 3 - How to get the Master-Key
 4 - mbedTLS on MCU
 5 - Same TLS code on ESP32
-IoT news analysis 0 - Vulnerabilities in IoT protocols?</description>
+6 - mbedTLS randoms on ESP32
+IIoT giants series 0 - Bosch, IoT and Open Source</description>
     </item>
     
     <item>
