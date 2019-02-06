@@ -39,8 +39,8 @@ main {
 }
 
 .intro > .profile {
-    width: 45vh;
-    height: 45vh;
+    width: 10vh;
+    height: 10vh;
     border-radius: 50%;
 }
 

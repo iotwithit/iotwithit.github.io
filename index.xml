@@ -25,6 +25,7 @@ mbedTLS series 0 - How do you Secure IoT networks?
 4 - mbedTLS on MCU
 5 - Same TLS code on ESP32
 6 - mbedTLS randoms on ESP32
+7 - Randoms and Entropy
 IIoT giants series 0 - Bosch, IoT and Open Source</description>
     </item>
     
