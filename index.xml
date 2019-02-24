@@ -18,15 +18,14 @@
       
       <guid>https://iotwith.it/blog/</guid>
       <description>IoT withit Blog simply links to Instagram posts, but with a logic! (most recent series first)
+IIoT giants series 0 - Bosch, IoT and Open Source
+1 - Siemens, IoT and Open Standards
+2 - Mentor, 4 steps for IIoT
 mbedTLS series 0 - How do you Secure IoT networks?
 1 - mbedTLS basics with Wireshark
 2 - Decrypting TLS
 3 - How to get the Master-Key
-4 - mbedTLS on MCU
-5 - Same TLS code on ESP32
-6 - mbedTLS randoms on ESP32
-7 - Randoms and Entropy
-8 - Seeding the Random Bytes Generator</description>
+4 - mbedTLS on MCU</description>
     </item>
     
     <item>
@@ -35,7 +34,7 @@ mbedTLS series 0 - How do you Secure IoT networks?
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0000/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0000 Urban Dictionary: Withit</description>
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0000 Urban Dictionary: Withit</description>
     </item>
     
     <item>
@@ -44,7 +43,7 @@ mbedTLS series 0 - How do you Secure IoT networks?
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0001/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0001 lwIP
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0001 lwIP
 Why do we use the Linux kernels TCP stack
 Wi-Fi and the OSI model</description>
     </item>
@@ -55,7 +54,7 @@ Wi-Fi and the OSI model</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0002/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0002 Developing applications [&amp;hellip;] with LwIP TCP/IP stack</description>
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0002 Developing applications [&amp;hellip;] with LwIP TCP/IP stack</description>
     </item>
     
     <item>
@@ -64,7 +63,7 @@ Wi-Fi and the OSI model</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0003/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0003 Espressif IoT Development Framework
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0003 Espressif IoT Development Framework
 Espressif lwIP fork
 All About ESP32 - lwIP
 Meld visual diff</description>
@@ -76,7 +75,7 @@ Meld visual diff</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0004/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0004 GNU Netcat
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0004 GNU Netcat
 lwipotps.h wiki
 TCP Client example</description>
     </item>
@@ -87,7 +86,7 @@ TCP Client example</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0005/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0005 Particle.io - Selecting a microcontroller (MCU) for your IoT Product
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0005 Particle.io - Selecting a microcontroller (MCU) for your IoT Product
 Introduction to Microcontrollers and Microprocessors
 Atmel/Microchip - MPU or MCU?</description>
     </item>
@@ -98,7 +97,7 @@ Atmel/Microchip - MPU or MCU?</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0006/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0006 Broadcom BCM5871X Product Brief
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0006 Broadcom BCM5871X Product Brief
 Broadcom BCM2837 ARM Peripherals</description>
     </item>
     
@@ -108,7 +107,7 @@ Broadcom BCM2837 ARM Peripherals</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0007/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0007 IoT withit on Github
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0007 IoT withit on Github
 Using a custom domain with GitHub Pages
 HUGO
 Minimal | HUGO Themes</description>
@@ -120,7 +119,7 @@ Minimal | HUGO Themes</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0009/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0009 Wireshark
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0009 Wireshark
 text2pcap: Converting ASCII hexdumps to network captures</description>
     </item>
     
@@ -130,7 +129,7 @@ text2pcap: Converting ASCII hexdumps to network captures</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0011/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0011 wlanif.c
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0011 wlanif.c
 esp32_pkt_capture.py
 Answer to Fred’s Secret Packet Challenge – Part 1</description>
     </item>
@@ -141,7 +140,7 @@ Answer to Fred’s Secret Packet Challenge – Part 1</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0015/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0015 AWS IoT and iRobot @ AWS
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0015 AWS IoT and iRobot @ AWS
 Serverless IoT at iRobot
 iRobot and IoT @ iot-inc
 AWS IoT JITR</description>
@@ -153,7 +152,7 @@ AWS IoT JITR</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0016/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0016 AWS IoT Best Practices at Scale
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0016 AWS IoT Best Practices at Scale
 AWS Lambda</description>
     </item>
     
@@ -163,7 +162,7 @@ AWS Lambda</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0017/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0017 esp32_pkt_capture.py
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0017 esp32_pkt_capture.py
 Answer to Fred’s Secret Packet Challenge – Part 1
 text2pcap: Converting ASCII hexdumps to network captures</description>
     </item>
@@ -174,7 +173,7 @@ text2pcap: Converting ASCII hexdumps to network captures</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0018/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0018 Huawei LiteOS
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0018 Huawei LiteOS
 LiteOS lwIP port</description>
     </item>
     
@@ -184,7 +183,7 @@ LiteOS lwIP port</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0019/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0019 Announcing Amazon FreeRTOS
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0019 Announcing Amazon FreeRTOS
 FreeRTOS now under AWS aegis
 Amazon FreeRTOS @ Github
 FreeRTOS v9 vs v10</description>
@@ -196,7 +195,7 @@ FreeRTOS v9 vs v10</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0020/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0020 AliOS Things
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0020 AliOS Things
 AliOS Things @ Github
 AliOS Things lwIP port
 Supported Hardware</description>
@@ -208,7 +207,7 @@ Supported Hardware</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0021/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0021 Android Things
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0021 Android Things
 Android Things @ Github
 Android Things vs Android
 Supported Hardware</description>
@@ -220,7 +219,7 @@ Supported Hardware</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0022/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0022 Windows 10 IoT Core
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0022 Windows 10 IoT Core
 Getting Started - Windows 10 IoT Core + Raspberry Pi 3
 Windows 10 IoT – The Big Reboot @ Annabooks</description>
     </item>
@@ -231,7 +230,7 @@ Windows 10 IoT – The Big Reboot @ Annabooks</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0024/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0024 ARM mbedTLS
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0024 ARM mbedTLS
 Securing IoT applications with Mbed TLS</description>
     </item>
     
@@ -241,7 +240,7 @@ Securing IoT applications with Mbed TLS</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0025/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0025 ARM mbedTLS @ Github
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0025 ARM mbedTLS @ Github
 Dissecting TLS using Wireshark
 Decrypting TLS Browser Traffic With Wireshark - The Easy Way</description>
     </item>
@@ -252,7 +251,7 @@ Decrypting TLS Browser Traffic With Wireshark - The Easy Way</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0026/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0026 Whitepaper - The Fragility of Industrial IoT&amp;rsquo;s Data Backbone
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0026 Whitepaper - The Fragility of Industrial IoT&amp;rsquo;s Data Backbone
 MQTT and CoAP: Security and Privacy Issues in IoT and IIoT Communication Protocols
 Major vulnerabilities found in IoT protocols</description>
     </item>
@@ -263,7 +262,7 @@ Major vulnerabilities found in IoT protocols</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0027/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0027 7zip encryption vulnerability
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0027 7zip encryption vulnerability
 How to add entropy sources in mbedTLS
 Hacker news discussion on 7zip vulnerability</description>
     </item>
@@ -274,7 +273,7 @@ Hacker news discussion on 7zip vulnerability</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0028/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0028 ssl_tls.c
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0028 ssl_tls.c
 Decrypting TLS Browser Traffic With Wireshark - The Easy Way</description>
     </item>
     
@@ -284,7 +283,7 @@ Decrypting TLS Browser Traffic With Wireshark - The Easy Way</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0029/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0029 TLS, Pre-Master Secrets and Master Secrets
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0029 TLS, Pre-Master Secrets and Master Secrets
 TLS PRF
 ssl_tls.c
 Decrypting TLS Browser Traffic With Wireshark - The Easy Way</description>
@@ -296,7 +295,7 @@ Decrypting TLS Browser Traffic With Wireshark - The Easy Way</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0030/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0030 ESP-IDF mbedTLS component
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0030 ESP-IDF mbedTLS component
 mbedTLS with NXP
 mbedTLS with Infineon and OPTIGA Trust X crypto element</description>
     </item>
@@ -307,7 +306,7 @@ mbedTLS with Infineon and OPTIGA Trust X crypto element</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0031/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0031 ESP-IDF https mbedtls example
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0031 ESP-IDF https mbedtls example
 mbedTLS ssl client example
 https_mbedtls_example_main.c</description>
     </item>
@@ -318,7 +317,7 @@ https_mbedtls_example_main.c</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0032/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0032 BOSCH pursues an Open Strategy to transform IoT
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0032 BOSCH pursues an Open Strategy to transform IoT
 BOSCH IoT Solutions Portfolio
 Eclipse IoT Members
 Eclispe IoT Constrained Device Stack</description>
@@ -330,7 +329,7 @@ Eclispe IoT Constrained Device Stack</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0033/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0033 The Dawn of Digital Industries with IIoT, Siemens White Paper
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0033 The Dawn of Digital Industries with IIoT, Siemens White Paper
 Siemens MindSphere
 MindSphere Architecture
 Siemens Digitalization Strategy and Investment Updates
@@ -343,7 +342,7 @@ Siemens PLM Cloud, IoT, IIoT, and Analytics Strategy and Investment</description
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0035/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0035 Understanding and Managing Entropy
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0035 Understanding and Managing Entropy
 How does generating random numbers remove entropy from your system?
 ESP32 Random Number Generation</description>
     </item>
@@ -354,7 +353,7 @@ ESP32 Random Number Generation</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0036/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0036 CTR DRBG Source Code @ mbedTLS
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0036 CTR DRBG Source Code @ mbedTLS
 NIST SP 800-90A
 Add Entropy Sources to mbedTLS Entropy Pool</description>
     </item>
@@ -365,7 +364,7 @@ Add Entropy Sources to mbedTLS Entropy Pool</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0037/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0037 Question on Quora</description>
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0037 Question on Quora</description>
     </item>
     
     <item>
@@ -374,7 +373,7 @@ Add Entropy Sources to mbedTLS Entropy Pool</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0038/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0038 Digicert IoT
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0038 Digicert IoT
 Digicert Statistics @ W3Techs
 State of IoT Security Survey</description>
     </item>
@@ -385,7 +384,7 @@ State of IoT Security Survey</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0040/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0040 What is MQTT? @ F5 DevCentral
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0040 What is MQTT? @ F5 DevCentral
 Understanding the MQTT Protocol Packet Structure
 Request/Response vs Publish/Subscribe
 Why HTTP isn&amp;rsquo;t the King of the Internet of Things @ Samsung DevConf</description>
@@ -397,7 +396,7 @@ Why HTTP isn&amp;rsquo;t the King of the Internet of Things @ Samsung DevConf</d
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0041/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0041 app_main.c
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0041 app_main.c
 Shadoan.io
 Mosquitto MQTT Broker
 esp-mqtt client</description>
@@ -409,7 +408,7 @@ esp-mqtt client</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0042/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0042 app_main.c
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0042 app_main.c
 wlanif.c
 esp32_pkt_capture.py
 ESP32 lwIP packet Forward and Capture</description>
@@ -421,7 +420,7 @@ ESP32 lwIP packet Forward and Capture</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0043/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0043 Device OS mesh-develop
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0043 Device OS mesh-develop
 Argon LED remote control
 Particle Argon Datasheet</description>
     </item>
@@ -432,7 +431,7 @@ Particle Argon Datasheet</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0044/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0044 acquisition_filtered.pcap
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0044 acquisition_filtered.pcap
 Understanding the MQTT Protocol Packet Structure
 esp32_pkt_capture.py</description>
     </item>
@@ -443,7 +442,7 @@ esp32_pkt_capture.py</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0045/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0045 mbedTLS alternative cryptography engines
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0045 mbedTLS alternative cryptography engines
 ARM CryptoCell 300 Family
 Particle Argon Datasheet</description>
     </item>
@@ -454,7 +453,7 @@ Particle Argon Datasheet</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0046/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0046 Fleet Space Technologies | Scalable Global IoT
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0046 Fleet Space Technologies | Scalable Global IoT
 South Australian startup takes the IoT out of this world
 CubeSat launch is an Australian first</description>
     </item>
@@ -465,7 +464,7 @@ CubeSat launch is an Australian first</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0047/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0047 An overview of the SSL or TLS handshake
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0047 An overview of the SSL or TLS handshake
 mbedTLS HTTPS client on ESP32</description>
     </item>
     
@@ -475,7 +474,19 @@ mbedTLS HTTPS client on ESP32</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0048/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  0048 Mentor, Enabling Embedded Devices for IIoT</description>
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0048 Mentor, Enabling Embedded Devices for IIoT</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://iotwith.it/instagram_references/0049/</link>
+      <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
+      
+      <guid>https://iotwith.it/instagram_references/0049/</guid>
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  0049 GE launches GE Digital
+GE Digital Customer Stories
+GE Digital Predix, IIoT platform
+Predix platform reviews @ Gartner</description>
     </item>
     
     <item>
@@ -484,7 +495,7 @@ mbedTLS HTTPS client on ESP32</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/base/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,48,8,10,12,13,14,23,34,39]  </description>
+      <description>Insert Post ID (e.g., 0000) [0,49,8,10,12,13,14,23,34,39]  </description>
     </item>
     
   </channel>
