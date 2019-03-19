@@ -18,15 +18,15 @@
       
       <guid>https://iotwith.it/blog/</guid>
       <description>IoT withit Blog simply links to Instagram posts, but with a logic! (most recent series first)
-eBPF series 0 - MQTTs with CloudMQTT
-1 - MQTTs command line dump
-2 - The BPF Virtual Machine
-3 - eBPF aks Linux superpowers
-4 - eBPF LLVM Backend
-5 - eBPF MQTTs dumper code
-IoT news analysis 0 - Vulnerabilities in IoT protocols?
-1 - 7zip randoms vulnerability and IoT
-2 - nano Satellites for IIoT</description>
+MQTT series 0 - MQTT Application Protocol
+1 - Open MQTT Brokers and ESP32
+2 - Capture ESP32 MQTT packets
+3 - Wireshark and MQTT
+4 - ESP32 CloudMQTT
+5 - CloudMQTT CA Certificate
+mbedTLS series 0 - How do you Secure IoT networks?
+1 - mbedTLS basics with Wireshark
+2 - Decrypting TLS</description>
     </item>
     
     <item>
