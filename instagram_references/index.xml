@@ -708,7 +708,9 @@ ARM Jazelle</description>
       <guid>https://iotwith.it/instagram_references/0071/</guid>
       <description>Insert Post ID (e.g., 0000) [0,71,8,10,12,13,14,23,34,39,50,56]  0071 Most common OpenSSL commands
 How to know if certificate is self-signed
-TLS certificate validation</description>
+TLS certificate validation
+Comodo Domain Validation (SHA-2)
+PEM format</description>
     </item>
     
     <item>
