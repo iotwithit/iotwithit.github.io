@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://iotwith.it/blog/</loc>
-    <lastmod>2018-12-31T17:35:46+01:00</lastmod>
+    <loc>https://iotwith.it/</loc>
+    <lastmod>2019-07-16T17:35:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iotwith.it/about/</loc>
+    <lastmod>2019-07-16T17:35:46+01:00</lastmod>
   </url>
   
   <url>
@@ -398,25 +403,26 @@
   </url>
   
   <url>
-    <loc>https://iotwith.it/</loc>
+    <loc>https://iotwith.it/instagram_references/</loc>
     <lastmod>2018-12-31T17:35:46+01:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iotwith.it/blog/</loc>
+    <lastmod>2018-12-31T17:35:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iotwith.it/series/</loc>
+    <lastmod>2018-12-31T17:35:46+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://iotwith.it/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://iotwith.it/instagram_references/</loc>
-    <lastmod>2018-12-31T17:35:46+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://iotwith.it/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

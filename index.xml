@@ -1,33 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>IoT withit</title>
     <link>https://iotwith.it/</link>
-    <description>Recent content on </description>
+    <description>Recent content on IoT withit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Dec 2018 17:35:46 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2019 17:35:46 +0100</lastBuildDate>
     
 	<atom:link href="https://iotwith.it/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://iotwith.it/blog/</link>
-      <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
+      <title>IoT withit - About</title>
+      <link>https://iotwith.it/about/</link>
+      <pubDate>Tue, 16 Jul 2019 17:35:46 +0100</pubDate>
       
-      <guid>https://iotwith.it/blog/</guid>
-      <description>IoT withit Blog simply links to Instagram posts, but with a logic! (most recent series first)
-MQTT series 0 - MQTT Application Protocol
-1 - Open MQTT Brokers and ESP32
-2 - Capture ESP32 MQTT packets
-3 - Wireshark and MQTT
-4 - ESP32 CloudMQTT
-5 - CloudMQTT CA Certificate
-6 - Retrieve CloudMQTT CA certs
-7 - CloudMQTT ESP32 Code
-8 - ESP32 wrong CA certificate?
-IoT news analysis 0 - Vulnerabilities in IoT protocols?</description>
+      <guid>https://iotwith.it/about/</guid>
+      <description>Why am I doing this? Because I like digital computing systems, getting to understand their founding principles.
+And I love to learn about the ways we use these artificial elements to rationalize the physical world. To derive data to control it, closing the loop.
+And I am intrigued by the Internet of Things as the attempt to merge the physical and digital realities: the biggest digital network connecting sensible objects, resulting in a whole new Cyber-Physical system.</description>
     </item>
     
     <item>
@@ -900,6 +892,25 @@ Windows 10 IoT Core @ IoT withit</description>
       
       <guid>https://iotwith.it/instagram_references/base/</guid>
       <description>Insert Post ID (e.g., 0000) [0,86,8,10,12,13,14,23,34,39,50,56]  </description>
+    </item>
+    
+    <item>
+      <title>IoT withit - Instagram Series and References</title>
+      <link>https://iotwith.it/series/</link>
+      <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
+      
+      <guid>https://iotwith.it/series/</guid>
+      <description>navigate HERE Post References by Post ID
+IoT withit Instagram Series Instagram posts, grouped into series by topic! (most recent series first)
+MQTT series 0 - MQTT Application Protocol
+1 - Open MQTT Brokers and ESP32
+2 - Capture ESP32 MQTT packets
+3 - Wireshark and MQTT
+4 - ESP32 CloudMQTT
+5 - CloudMQTT CA Certificate
+6 - Retrieve CloudMQTT CA certs
+7 - CloudMQTT ESP32 Code
+8 - ESP32 wrong CA certificate?</description>
     </item>
     
   </channel>

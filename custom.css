@@ -1,5 +1,32 @@
-.intro > .profile {
-    width: 45vh !important;
-    height: 45vh !important;
+/*.intro > .profile_pic {
+    width: 16vh !important;
+    height: 16vh !important;
     border-radius: 50%;
+}
+
+.intro > .profile_proj_pic {
+    width: 14vh !important;
+    height: 14vh !important;
+    margin: -1.5vw !important;
+    border-radius: 50%;
+}*/
+
+body {
+    /*padding-top: 0px;*/
+    /*text-align: left !important;*/
+}
+
+/*.intro > h1 {
+    font-size: 3.5vh !important;
+    margin-top: 5vh;
+    margin-bottom: -3vh;
+}
+
+.intro > h2 {
+    margin-top: 5vh;
+    font-size: 2.8vh !important;
+}*/
+
+.anchor-adj {
+    padding-top: 75px;
 }
