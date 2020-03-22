@@ -18,9 +18,9 @@
       
       <guid>https://iotwith.it/about/</guid>
       <description>Why am I doing this? Because I like digital computing systems, getting to understand their founding principles.
-And I love to learn about the ways we use these artificial elements to rationalize the physical world.
+I love to learn about the ways we use these artificial elements to rationalize the physical world.
 To derive data to control it, closing the loop.
-I am intrigued by the Internet of Things as the attempt to merge the physical and digital realities: the biggest digital network connecting sensible objects, resulting in a whole new Cyber-Physical system.</description>
+I am intrigued by the Internet of Things as the attempt to merge the physical and digital realities: the biggest digital network, the Internet, now connecting sensible objects, resulting in a whole new cyber-physical system.</description>
     </item>
     
     <item>
@@ -246,7 +246,7 @@ Decrypting TLS Browser Traffic With Wireshark - The Easy Way</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0026/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,86,8,10,12,13,14,23,34,39,50,56]  0026 Whitepaper - The Fragility of Industrial IoT&#39;s Data Backbone
+      <description>Insert Post ID (e.g., 0000) [0,86,8,10,12,13,14,23,34,39,50,56]  0026 Whitepaper - The Fragility of Industrial IoT&amp;rsquo;s Data Backbone
 MQTT and CoAP: Security and Privacy Issues in IoT and IIoT Communication Protocols
 Major vulnerabilities found in IoT protocols</description>
     </item>
@@ -382,7 +382,7 @@ State of IoT Security Survey</description>
       <description>Insert Post ID (e.g., 0000) [0,86,8,10,12,13,14,23,34,39,50,56]  0040 What is MQTT? @ F5 DevCentral
 Understanding the MQTT Protocol Packet Structure
 Request/Response vs Publish/Subscribe
-Why HTTP isn&#39;t the King of the Internet of Things @ Samsung DevConf</description>
+Why HTTP isn&amp;rsquo;t the King of the Internet of Things @ Samsung DevConf</description>
     </item>
     
     <item>
@@ -479,7 +479,7 @@ mbedTLS HTTPS client on ESP32</description>
       
       <guid>https://iotwith.it/instagram_references/0049/</guid>
       <description>Insert Post ID (e.g., 0000) [0,86,8,10,12,13,14,23,34,39,50,56]  0049 GE launches GE Digital
-3 Recommendations For GE&#39;s Newly Formed IIoT Software Company
+3 Recommendations For GE&amp;rsquo;s Newly Formed IIoT Software Company
 GE Digital Customer Stories
 GE Digital Predix, IIoT platform
 Predix Official Website
@@ -540,7 +540,7 @@ IoT Goes Nuclear: Creating a ZigBee Chain Reaction</description>
 Cinterion EXS82
 Cinterion ENS22 Datasheet
 Gemalto M2M modules
-IoT at MWC: what&#39;s new?
+IoT at MWC: what&amp;rsquo;s new?
 Gemalto Secure Elements
 Gemalto IoT Security
 MWC Barcelona Gemalto Exhibitor Page
@@ -784,7 +784,7 @@ What is the purpose of the Intermediate CA certificate?</description>
       <pubDate>Mon, 31 Dec 2018 17:35:46 +0100</pubDate>
       
       <guid>https://iotwith.it/instagram_references/0077/</guid>
-      <description>Insert Post ID (e.g., 0000) [0,86,8,10,12,13,14,23,34,39,50,56]  0077 I&#39;ve Never Had a Bug in My Code
+      <description>Insert Post ID (e.g., 0000) [0,86,8,10,12,13,14,23,34,39,50,56]  0077 I&amp;rsquo;ve Never Had a Bug in My Code
 Is it a Bug or an Error?
 On the Cruelty of Really Teaching Computing Science</description>
     </item>
