@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+         
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>ML for Embedded Software Engineers: a pragmatic approach [pt.1]</title>
+        
+        <link rel="icon" href="https://iotwith.it/favicon.ico">
+        
+        <style>
+
+    html body {
+        font-family: 'Montserrat', sans-serif;
+        background-color: snow;
+    }
+
+    :root {
+        --accent: navy;
+        --border-width:  5px ;
+    }
+
+</style>
+
+
+<link rel="stylesheet" href="https://iotwith.it/css/main.css">
+
+
+ <link rel="stylesheet" href="https://iotwith.it/custom.css"> 
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/solarized-dark.min.css"> 
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+ 
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/c.min.js"></script>  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/makefile.min.js"></script> 
+
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
+ <meta name="generator" content="Hugo 0.70.0" />
+        
+
+        
+        
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133929282-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments)};
+          gtag('js', new Date());
+
+          gtag('config', 'UA-133929282-1');
+        </script>
+        
+        <script src="/js/ref-selector.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+        <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+        <script>
+        window.addEventListener("load", function(){
+        window.cookieconsent.initialise({
+          "palette": {
+                "popup": {
+                  "background": "#237afc"
+                },
+                "button": {
+                  "background": "#fff",
+                  "text": "#237afc"
+              }
+          }
+        })});
+        </script>
+
+    </head>
+
+    
+    
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    
+
+    <body>
+         
+        <nav class="navbar navbar-default navbar-fixed-top">
+
+            <div class="container">
+
+                <div class="navbar-header">
+
+                    <a class="navbar-brand visible-xs" href="#">ML for Embedded Software Engineers: a pragmatic approach [pt.1]</a>
+
+                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                </div>
+
+                <div class="collapse navbar-collapse">
+
+                    
+                        <ul class="nav navbar-nav">
+                            
+                                <li><a href="/">Home</a></li>
+                            
+                                <li><a href="/blog">Blog</a></li>
+                            
+                                <li><a href="/series">Instagram Series and References</a></li>
+                            
+                        </ul>
+                    
+
+                    
+                        <ul class="nav navbar-nav navbar-right">
+                            
+                                <li class="navbar-icon"><a href="https://instagram.com/iot.withit/"><i class="fa fa-instagram"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://github.com/iotwithit/"><i class="fa fa-github"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/lorenzo-rizzello/"><i class="fa fa-linkedin"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="/about"><i class="fa fa-id-card"></i></a></li>
+                            
+                        </ul>
+                    
+
+                </div>
+
+            </div>
+
+        </nav>
+
+
+<main>
+
+    <div class="item">
+
+    
+    
+    
+
+    
+    
+    
+    
+
+    
+    <h4><a href="/blog/mlembeddedpragmatic/">ML for Embedded Software Engineers: a pragmatic approach [pt.1]</a></h4>
+    
+    <h5>May 16, 2020</h5>
+    
+    <a href="https://iotwith.it/tags/machinelearning"><kbd class="item-tag">machinelearning</kbd></a>
+    
+    <a href="https://iotwith.it/tags/embeddesystems"><kbd class="item-tag">embeddesystems</kbd></a>
+    
+
+</div>
+
+
+    <br> <div class="text-justify"><ul>
+<li><a href="#mlembpragm-intro">Introduction</a></li>
+<li><a href="#mlembpragm-wheretostart">Where to start?</a></li>
+<li><a href="#mlembpragm-firststeps">First steps into practice</a></li>
+<li><a href="#mlembpragm-whatsnext">What&rsquo;s next?</a></li>
+</ul>
+<h2 id="a-classanchor-adj-idmlembpragm-introa-introduction"><a class="anchor-adj" id="mlembpragm-intro"></a> Introduction</h2>
+<p>Last October, I met <a href="https://beningo.com" target="_blank">Jacob Beningo</a> and he asked me if I was curious about Machine Learning applications for embedded systems.
+I had some general ideas of Machine Learning: something from my Master&rsquo;s, something from my job in <a href="https://zerynth.com" target="_blank">Zerynth</a> and <a href="https://skypersonic.net" target="_blank">Skypersonic</a>, something from everyone-on-the-internet-talking-about-machine-learning.</p>
+<p>But I never had the opportunity to really get into it, so why not?</p>
+<p>Working with embedded systems, especially IoT, I happened to hear about Machine Learning moving to the edge. It was difficult to understand, though, if there was a balance between the hype and practical use-cases.</p>
+<p>In this article, I will report something I found helpful to start with Machine Learning as an embedded software engineer, trying to reach the point without getting lost into such an immense field.
+This path, not as linear as reported here, led me to the <a href="https://www.embeddedonlineconference.com/session/Object_Classification_Techniques_using_the_OpenMV_Cam_H7" target="_blank"><strong>Object Classification techniques using the OpenMV Cam H7</strong></a> talk I prepared for the Embedded Online Conference.</p>
+<h2 id="a-classanchor-adj-idmlembpragm-wheretostarta-where-to-start"><a class="anchor-adj" id="mlembpragm-wheretostart"></a> Where to start?</h2>
+<p>First things first, Jacob pointed me to the <a href="https://openmv.io" target="_blank">OpenMV project</a>.
+I received an OpenMV Cam H7 (STM32H7-based board) to play with, and I found the whole environment well thought, well written, and well documented. The OpenMV project actually targets Machine Vision for embedded systems, and Machine Learning capabilities have been added recently exclusively to deal with some kind of Machine Vision problems.</p>
+<p>Though not having Machine Learning as its primary focus, I definitely recommend the OpenMV Cam: it just works, and I think the Machine Learning component of the project is destined to grow.
+It allows you to test the examples in a few minutes, and to move on, after getting a high-level idea, into its opensource, well-organized <a href="https://github.com/openmv/" target="_blank">codebase</a>.</p>
+<p>After playing a bit with it, I felt I needed a bit more context, and this is when a book, and a guide, both freely available, came to help me. <a href="https://pages.arm.com/machine-learning-for-dummies.html" target="_blank"><em>Embedded Machine Learning Design for dummies, Arm Special Edition</em></a>, and <a href="https://reality.ai/ultimate-guide-to-machine-learning-for-embedded-systems/" target="_blank"><em>The Ultimate Guide to Machine Learning for Embedded Systems</em></a> by RealityAI.
+They both do an excellent job highlighting the whys of Machine Learning for embedded systems and providing real-world examples. The RealityAI guide gives practical advice that makes you think they are definitely finding a purpose for these techniques on the field.</p>
+<h2 id="a-classanchor-adj-idmlembpragm-firststepsa-first-steps-into-practice"><a class="anchor-adj" id="mlembpragm-firststeps"></a> First steps into practice</h2>
+<p>Seen examples running, and understood a bit of the theory and the reasons behind them, I was ready to learn a bit more getting my hands dirty.
+You will have to wait for the talk to be released to precisely understand what my next step was, but I can already tell you it involved model training, conversion to fit an embedded device, and the right amount of tinkering with the firmware.</p>
+<p>To go further, I needed more specific material related to <a href="https://www.tensorflow.org/lite/microcontrollers" target="_blank">Tensorflow Lite for microcontrollers (TF Lite µ)</a>, particular deep-learning techniques and models, and optimizations for arm cortex-m devices.</p>
+<p>It was not available at the time, but if I had to start again with TF Lite µ, I would definitely go with Pete Warden&rsquo;s screencast <a href="https://www.youtube.com/watch?v=_NcG5estXOU" target="_blank">Introduction to TFLite for Microcontrollers</a>.</p>
+<p>What I can suggest next is the arm guide <a href="https://pages.arm.com/machine-learning-on-arm-cortex-m-microcontroller.html" target="_blank"><em>Machine Learning on Arm Cortex-M Microcontrollers</em></a>. It is not an easy read, but it introduces numbers and a lot of concepts that, even if not grasped immediately, will come up in the future: then you will know where to look back.</p>
+<p>For the pure Machine Learning part, I relied a lot on the <a href="https://towardsdatascience.com/" target="_blank">Towards Data Science</a> project: it contains both great, and not very good articles. What I recommend is to do a bit of research on the author of the post if you are not sure about the quality of the content.</p>
+<p>One article I particularly enjoyed is <a href="https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a" target="_blank"><em>Understanding binary cross-entropy/log loss: a visual explanation</em></a>.
+I think it represents the kind of article making no sense for you to read (as an embedded software engineer just starting with ML) before having a real need. But when you have a specific, practical choice to deal with, it has the perfect balance between math and visualization to make the topic as clear as it needs to be.</p>
+<p>It may not be the best approach scientifically speaking, but I find mixing bottom-up and top-down strategies a pragmatic way to learn something new without getting lost. Start with an example, then go with a bit of theory that allows moving to more complex cases and put new concepts in practice. Then fill the holes in your knowledge learning to ask yourself the right questions and wondering about the proper choices to make.</p>
+<p>I also want to mention an outstanding tool that helped me a lot both during the theory and the practice: <a href="https://github.com/lutzroeder/netron/" target="_blank">Netron</a> is a visualizer for neural networks that will clear your mind.</p>
+<h2 id="a-classanchor-adj-idmlembpragm-whatsnexta-whats-next"><a class="anchor-adj" id="mlembpragm-whatsnext"></a> What&rsquo;s next?</h2>
+<p>I hope this makes sense to you and makes you feel less disoriented approaching something as huge as Machine Learning, which also looks far from the daily topics of an embedded software engineer.</p>
+<p>Now read and practice.
+This is the end of part 1, and I promise the next part will be softer!</p>
+</div>
+
+    
+    
+
+    
+
+    
+
+</main>
+
+        <footer>
+
+            <p>
+                <span class="copyright text-muted" style="margin-right: -114px; position: relative; z-index: -1;">© All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a>.</span>
+
+                <span style="float: right; position: relative;">
+                    <a href="https://www.iubenda.com/privacy-policy/68807459" class="iubenda-white iubenda-embed" title="Privacy Policy">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+                </span>
+            </p>
+
+        </footer>
+       
+    </body>
+
+</html>
+

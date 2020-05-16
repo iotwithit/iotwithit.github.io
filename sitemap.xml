@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://iotwith.it/tags/embeddesystems/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iotwith.it/tags/machinelearning/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iotwith.it/blog/mlembeddedpragmatic/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iotwith.it/tags/</loc>
+    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://iotwith.it/</loc>
     <lastmod>2019-07-16T17:35:46+01:00</lastmod>
   </url>
@@ -419,10 +439,6 @@
   
   <url>
     <loc>https://iotwith.it/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://iotwith.it/tags/</loc>
   </url>
   
 </urlset>

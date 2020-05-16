@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>ML for Embedded Software Engineers: a pragmatic approach [pt.1]</title>
+      <link>https://iotwith.it/blog/mlembeddedpragmatic/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iotwith.it/blog/mlembeddedpragmatic/</guid>
+      <description>Introduction Where to start? First steps into practice What&amp;rsquo;s next?   Introduction Last October, I met Jacob Beningo and he asked me if I was curious about Machine Learning applications for embedded systems. I had some general ideas of Machine Learning: something from my Master&amp;rsquo;s, something from my job in Zerynth and Skypersonic, something from everyone-on-the-internet-talking-about-machine-learning.
+But I never had the opportunity to really get into it, so why not?</description>
+    </item>
+    
+    <item>
       <title>IoT withit - About</title>
       <link>https://iotwith.it/about/</link>
       <pubDate>Tue, 16 Jul 2019 17:35:46 +0100</pubDate>
@@ -19,7 +29,7 @@
       <guid>https://iotwith.it/about/</guid>
       <description>Why am I doing this? Because I like digital computing systems, getting to understand their founding principles.
 I love to learn about the ways we use these artificial elements to rationalize the physical world.
-To derive data to control it, closing the loop.
+Deriving data to control it, closing the loop.
 I am intrigued by the Internet of Things as the attempt to merge the physical and digital realities: the biggest digital network, the Internet, now connecting sensible objects, resulting in a whole new cyber-physical system.</description>
     </item>
     

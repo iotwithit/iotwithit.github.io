@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>IoT withit - Blog, coming soon. on IoT withit</title>
+    <title>IoT withit - Blog on IoT withit</title>
     <link>https://iotwith.it/blog/</link>
-    <description>Recent content in IoT withit - Blog, coming soon. on IoT withit</description>
+    <description>Recent content in IoT withit - Blog on IoT withit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Dec 2018 17:35:46 +0100</lastBuildDate>
     
 	<atom:link href="https://iotwith.it/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ML for Embedded Software Engineers: a pragmatic approach [pt.1]</title>
+      <link>https://iotwith.it/blog/mlembeddedpragmatic/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iotwith.it/blog/mlembeddedpragmatic/</guid>
+      <description>Introduction Where to start? First steps into practice What&amp;rsquo;s next?   Introduction Last October, I met Jacob Beningo and he asked me if I was curious about Machine Learning applications for embedded systems. I had some general ideas of Machine Learning: something from my Master&amp;rsquo;s, something from my job in Zerynth and Skypersonic, something from everyone-on-the-internet-talking-about-machine-learning.
+But I never had the opportunity to really get into it, so why not?</description>
+    </item>
     
   </channel>
 </rss>
