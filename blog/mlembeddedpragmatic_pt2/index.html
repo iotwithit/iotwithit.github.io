@@ -8,11 +8,11 @@
 <meta
     name="image"
     property="og:image"
-    content=""
+    content="https://iotwith.it/mlembeddedpragmaticp2_preview.png"
 />
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>IoT withit - Blog</title>
+        <title>ML for Embedded Software Engineers: a pragmatic approach [pt.2]</title>
         
         <link rel="icon" href="https://iotwith.it/favicon.ico">
         
@@ -71,9 +71,6 @@
 <script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
  <meta name="generator" content="Hugo 0.70.0" />
         
-        <link href="/blog/index.xml" rel="alternate" type="application/rss&#43;xml" title="IoT withit" />
-        <link href="/blog/index.xml" rel="feed" type="application/rss&#43;xml" title="IoT withit" />
-        
 
         
         
@@ -122,7 +119,7 @@
 
                 <div class="navbar-header">
 
-                    <a class="navbar-brand visible-xs" href="#">IoT withit - Blog</a>
+                    <a class="navbar-brand visible-xs" href="#">ML for Embedded Software Engineers: a pragmatic approach [pt.2]</a>
 
                     <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
                         <span class="icon-bar"></span>
@@ -169,9 +166,7 @@
 
 <main>
 
-    <h2>IoT withit - Blog</h2>
-
-     <div class="item">
+    <div class="item">
 
     
     
@@ -193,33 +188,53 @@
     
 
 </div>
-  <div class="item">
 
-    
-    
-    
 
-    
-    
-    
-    
-
-    
-    <h4><a href="/blog/mlembeddedpragmatic/">ML for Embedded Software Engineers: a pragmatic approach [pt.1]</a></h4>
-    
-    <h5>May 16, 2020</h5>
-    
-    <a href="https://iotwith.it/tags/machinelearning"><kbd class="item-tag">machinelearning</kbd></a>
-    
-    <a href="https://iotwith.it/tags/embeddesystems"><kbd class="item-tag">embeddesystems</kbd></a>
-    
-
+    <br> <div class="text-justify"><ul>
+<li><a href="#mlembpragmpt2-pt2">Part Two</a></li>
+<li><a href="#mlembpragmpt2-tinyml">TinyML</a></li>
+<li><a href="#mlembpragmpt2-mlmindset">ML mindset</a></li>
+<li><a href="#mlembpragmpt2-theend">The end?</a></li>
+</ul>
+<h2 id="a-classanchor-adj-idmlembpragmpt2-pt2a-part-two"><a class="anchor-adj" id="mlembpragmpt2-pt2"></a> Part Two</h2>
+<p>Part one of this introduction to Machine Learning for embedded software engineers has been the hard one.
+When I say <em>hard</em>, I mean <em>hard</em> as in <em>hard skills</em>.</p>
+<p>I tried to guide you through the learning process with development boards and code, and I ended the article with the promise the following part would be softer.</p>
+<p>How can this part be softer? Soft as in soft skills?<br>
+Kind of.<br>
+Here, I just want to point you to some broad concepts and higher-level material that hopefully should allow you to enter a <em>Machine Learning mindset</em>.<br>
+I consider this mindset fundamental to understand the potential Machine Learning can unlock when applied at the edge, on little devices.</p>
+<h2 id="a-classanchor-adj-idmlembpragmpt2-tinymla-tinyml"><a class="anchor-adj" id="mlembpragmpt2-tinyml"></a> TinyML</h2>
+<p>In the previous article, I introduced to you <a href="https://petewarden.com/" target="_blank">Pete Warden</a>, Staff Research Engineer at Google, and the screencasts on his Youtube channel.
+Those screencasts are meant to extend the content of the <a href="https://tinymlbook.com/" target="_blank">TinyML book</a>, of which he is one of the two authors.</p>
+<p>The goal of the book is to show the capabilities of Machine Learning on microcontrollers to an audience that is not familiar with Machine Learning nor embedded software. I think, though, that skipping the embedded software details, it is a useful resource even for embedded software engineers that are eager to see how Machine Learning can be applied to their well-known tiny devices.</p>
+<p>The first six chapters of the book are <a href="https://tinymlbook.com/wp-content/uploads/2020/01/tflite_micro_preview.pdf" target="_blank">free to download</a>, and I definitely suggest you read at least the <strong>Introduction</strong> for that feeling of purpose that guides the people behind the TinyML project. Through those words, and also listening to Pete on his screencasts, it is easy to perceive his enthusiasm towards the topic and the possibilities he sees emerging mixing the worlds of ML and low-power devices.</p>
+<p>He is also lucky to not be alone promoting these concepts.
+I hope you already know the <strong>embedded.fm</strong> podcast: in all cases, dedicate an hour to episode <a href="https://embedded.fm/episodes/327" target="_blank">327: a little bit of human knowledge</a>. In this episode, Daniel Situnayake, the other author of the TinyML book, does a perfect job in describing the scope and the utility of Machine Learning at the edge.</p>
+<p><em>Take some expertise from a domain expert and encapsulate it in a model that is put somewhere to answer simple questions with simple answers, pushing the understanding of the world down where it can be applied without human intervention.</em></p>
+<h2 id="a-classanchor-adj-idmlembpragmpt2-mlmindseta-ml-mindset"><a class="anchor-adj" id="mlembpragmpt2-mlmindset"></a> ML mindset</h2>
+<p>After a grasp of the potential of Machine Learning applied to embedded devices, you might be interested in keeping up with the basic terminology around the Machine Learning world.</p>
+<p>I recommend starting very soft with the <a href="https://www.coursera.org/learn/ai-for-everyone/" target="_blank">AI for everyone</a> free course by Andrew Ng, one of the fathers of modern machine learning.
+It is definitely short and easy to follow: perfect for acquiring the Machine Learning mindset I was referring to at the beginning. It does not get you lost into details that are not strictly required to deal with Machine Learning when you do not need to be an expert in it.<br>
+At first, you just have to be prepared to become able to see where it can be applied, what its limits and advantages are.</p>
+<h2 id="a-classanchor-adj-idmlembpragmpt2-theenda-the-end"><a class="anchor-adj" id="mlembpragmpt2-theend"></a> The end?</h2>
+<p>Have I been too soft?<br>
+I have to admit with these two articles, I just wanted you to be ready for my <a href="https://www.embeddedonlineconference.com/session/Object_Classification_Techniques_using_the_OpenMV_Cam_H7" target="_blank"><strong>Object Classification techniques using the OpenMV Cam H7</strong></a> talk&hellip;</p>
+<p>But only because that would be a valid third part for your introduction to Machine Learning as an embedded software engineer! <i class="fa fa-heart-o"></i></p>
+<p>Jokes apart, if you registered or you can register now, attend the talk and give me your feedback: it is scheduled for <strong>May 20th 12:00pm (EDT)</strong>.<br>
+In the talk, I will try to get you into more specific concepts and have you follow a complete and particular example from training to inference, that I think is not easy to find at the moment on the Internet.</p>
+<p>BTW, if you are interested in the world of Machine Learning on edge devices, I opened a LinkedIn group I invite you to join: <a href="https://www.linkedin.com/groups/8935064/" target="_blank">Edge Machine Learning</a>.</p>
+<p>Thank you!</p>
 </div>
- 
+
+    
+    
+
+    
+
+    
 
 </main>
-
-
 
         <footer>
 

@@ -6,10 +6,21 @@
     <description>Recent content in embeddesystems on IoT withit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iotwith.it/tags/embeddesystems/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ML for Embedded Software Engineers: a pragmatic approach [pt.2]</title>
+      <link>https://iotwith.it/blog/mlembeddedpragmatic_pt2/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iotwith.it/blog/mlembeddedpragmatic_pt2/</guid>
+      <description>Part Two TinyML ML mindset The end?   Part Two Part one of this introduction to Machine Learning for embedded software engineers has been the hard one. When I say hard, I mean hard as in hard skills.
+I tried to guide you through the learning process with development boards and code, and I ended the article with the promise the following part would be softer.
+How can this part be softer?</description>
+    </item>
     
     <item>
       <title>ML for Embedded Software Engineers: a pragmatic approach [pt.1]</title>
